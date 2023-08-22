@@ -19,3 +19,5 @@ if user_choice in choices:
         print("Draw Game!")
     else:
         print("User Won!")
+else:
+    print("Invalid Choice")
